@@ -1,7 +1,7 @@
 # Youcode Editor
 youcode editor is a normal js, css, html accepted/run languages code editor in provided two theme light and dark
 
-# Snapshots__
+# Snapshots
 **Light Mode**
 ![plot](./snapshot/snap1.png)
 __
