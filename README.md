@@ -13,7 +13,7 @@ youcode editor is a normal js, css, html accepted/run languages code editor in p
 ![YC snap](./snapshot/snap4.png)
 
 
-**Themes key shortcuts**
+# Themes key shortcuts 
 ```
 Ctrl + Shift + K
 Ctrl + / # open settings and scroll down page and choose editor thene options
