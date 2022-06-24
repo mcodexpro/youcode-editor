@@ -11,6 +11,9 @@ __
 ![YC snap](./snapshot/snap3.png)
 __
 ![YC snap](./snapshot/snap4.png)
+__
 **Themes key shortcuts**
 ```
 Ctrl + Shift + K
+Ctrl + / # open settings and scroll down page and choose editor thene options
+```
