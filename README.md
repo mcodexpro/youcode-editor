@@ -11,3 +11,6 @@ __
 ![YC snap](./snapshot/snap3.png)
 __
 ![YC snap](./snapshot/snap4.png)
+**Themes key shortcuts**
+```
+Ctrl + Shift + K
