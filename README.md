@@ -16,5 +16,5 @@ youcode editor is a normal js, css, html accepted/run languages code editor in p
 # Themes key shortcuts 
 ```
 Ctrl + Shift + K
-Ctrl + / # open settings and scroll down page and choose editor thene options
+Ctrl + / # open settings and scroll down page and choose editor theme options
 ```
