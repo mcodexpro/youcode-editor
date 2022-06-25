@@ -1,0 +1,12 @@
+[
+	{
+		"editor.theme": "dark",
+		"editor.autoSave.delay": 3000,
+		"editor.animation": true,
+		"editor.autoSave": true,
+		"editor.wordWrap": true,
+		"editor.fontWeight": 500,
+		"editor.fontFamily": "monospace",
+		"editor.fontSize": 14
+	}
+]
