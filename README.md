@@ -7,7 +7,7 @@ youcode editor is a normal js, css, html accepted/run languages code editor in p
 
 ![YC snap](./snapshort/snap2.png)
 
-![YC snap](./snapshort/snap7.png)
+![YC snap](./snapshort/snap5.png)
 
 **Dark Mode**
 ![YC snap](./snapshort/snap3.png)
