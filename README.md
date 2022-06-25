@@ -3,18 +3,18 @@ youcode editor is a normal js, css, html accepted/run languages code editor in p
 
 # Snapshots
 **Light Mode**
-![YC snap](./snapshot/snap1.png)
+![YC snap](./snapshort/snap1.png)
 
-![YC snap](./snapshot/snap2.png)
+![YC snap](./snapshort/snap2.png)
 
-![YC snap](./snapshot/snap7.png)
+![YC snap](./snapshort/snap7.png)
 
 **Dark Mode**
-![YC snap](./snapshot/snap3.png)
+![YC snap](./snapshort/snap3.png)
 
-![YC snap](./snapshot/snap4.png)
+![YC snap](./snapshort/snap4.png)
 
-![YC snap](./snapshot/snap6.png)
+![YC snap](./snapshort/snap6.png)
 
 
 # Themes key shortcuts 
