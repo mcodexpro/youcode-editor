@@ -1,2 +1,5 @@
 <!-- Redirect youcode page -->
-<?php header("Location:./youcode.php"); die(); ?>
+<?php 
+header("Location:./youcode.php"); 
+die(); 
+?>
